@@ -41,6 +41,12 @@
 *.VC.db
 *.VC.opendb
 
+# FMOD User Settings
+.cache
+.cache/*
+.user
+.user/*
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga

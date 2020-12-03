@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{2e3e5921-fa8d-4ef0-a9ec-3ab4f9548bee}">
+		<property name="assetPath">
+			<value>Player/ScaredOutOfMirror.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.8266666666666671</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87824fa7-dee9-4512-b3d9-8c7e492aafdb}</destination>
+		</relationship>
+	</object>
+</objects>

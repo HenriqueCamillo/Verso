@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{e2436703-1fcd-4088-8fb6-5d41854d016d}">
+		<property name="assetPath">
+			<value>Monster/Laugh1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.9473922902494332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87824fa7-dee9-4512-b3d9-8c7e492aafdb}</destination>
+		</relationship>
+	</object>
+</objects>
